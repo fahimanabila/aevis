@@ -35,4 +35,4 @@ Component Requirement :
 ## :white_check_mark: 3D Mockup
 ![3D Mockup for case](https://zapplication.my.id/3dmockup.png)
 
-## :beginner: THE SOURCE CODE has compatibility in Arduino IDE version 1.8.9, changing the version might impact on the codes.
+:beginner: THE SOURCE CODE has compatibility in Arduino IDE version 1.8.9, changing the version might impact on the codes.
