@@ -1,5 +1,6 @@
 # AEVIS an Embedded System Project based :fish:
-AEVIS (Automatic Feeder for Various Fishes) built with Arduino UNO and C Language
+AEVIS (Automatic Feeder for Various Fishes) built with Arduino UNO and C Language. 
+*This repository is being shared for educational purpose only!*
 ## :white_check_mark: Background
 > Feeding for fish is required to consider the quality of the feed and the quantity/dose of feed, often due to the busyness of some people who forget to feed their pet fish as a result many novice cultivators fail because they do not meet the nutritional needs of the fish properly. Therefore the author has the idea to make an Automatic Feeder for Various Fishes (AEVIS) for pet fish in aquariums, with an automatic system, fish owners don't need to feed fish manually.
 
@@ -34,5 +35,9 @@ Component Requirement :
 ![Components layout](https://zapplication.my.id/rangkaian.png)
 ## :white_check_mark: 3D Mockup
 ![3D Mockup for case](https://zapplication.my.id/3dmockup.png)
+## :link: Attachment and Documentation in Indonesian (bahasa) 
+[See our Report](https://drive.google.com/file/d/1kZEn3Evr9w1AErmlv79PoJkEC_XNMc-E/view?usp=share_link)
 
-:beginner: THE SOURCE CODE has compatibility in Arduino IDE version 1.8.9, changing the version might impact on the codes.
+[See our Documentation](https://drive.google.com/file/d/1kZEn3Evr9w1AErmlv79PoJkEC_XNMc-E/view?usp=share_link)
+
+:beginner: THE SOURCE CODE has compatibility in Arduino IDE version 1.8.9, changing the version might impact on the libraries.
